@@ -8,7 +8,7 @@ public class Mandelbrot {
 		
 		int colorb=0,colorg=0;
 		
-		double diffiP = (0.00025/8.0)*3.0, diffjP = (0.000218/8.0)*3.0, diffiM = (0.00025/8.0)*4.0, diffJM = (0.00025/8.0)*3.5;
+		double diffiP = (0.00025/8.0)*3.0, diffjP = (0.000218/8.0)*3.0, diffiM = (0.00025/8.0)*3.5, diffJM = (0.000218/8.0)*3.5;
 		
 		double point = 0.001875;
 		double starting_imaginary = -1.25 + diffiP;
